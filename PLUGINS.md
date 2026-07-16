@@ -15,10 +15,6 @@ Cursor stores its installed-plugin registry internally, so this manifest is the 
 - supabase
 - superpowers
 
-## Other marketplaces
-
-- fullstory/fullstory (marketplace: github.com/fullstorydev/fullstory-skills)
-
 ## Local modifications (re-apply after plugin updates)
 
 Five files in `compound-engineering` and `cursor-team-kit` carry small merged-in additions (~30 lines) that plugin updates will silently revert:
