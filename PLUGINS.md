@@ -9,7 +9,6 @@ Cursor stores its installed-plugin registry internally, so this manifest is the 
 - context7-plugin
 - continual-learning
 - cursor-team-kit
-- figma
 - functions
 - parallel
 - supabase
