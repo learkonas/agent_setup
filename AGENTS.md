@@ -42,6 +42,6 @@ This file provides guidance for AI assistants working on this repository.
 
 ## Git Workflow
 
-- Never commit on the user's behalf — stage changes and let the user commit themselves
+- Never commit on the user's behalf when working on main — only commit when the human says so
 - Use git worktrees for working on multiple features in parallel on separate branches
 - Keep documentation current: READMEs should be updated after every plan execution
