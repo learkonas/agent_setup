@@ -27,6 +27,7 @@ This file provides guidance for AI assistants working on this repository.
 - Flag uncertainty explicitly. If you are not confident about an approach or technical detail, say so before proceeding. Confidence without certainty causes more damage than admitting a gap.
 
 - I'm always open to ideas on better ways to do things. Please don't hesitate to suggest a better way, or one that has long lasting impact over a tactical change.
+- If you think you need to ask the user to do something, because you can't do it yourself, first check whether you actually can do it with CLI, API, MCP, browser control, or some other approach first.
 
 
 ## Code Style
